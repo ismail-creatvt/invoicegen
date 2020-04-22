@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/invoicegen/static/css/main.000f62fb.chunk.css",
-    "main.js": "/invoicegen/static/js/main.7aa8c1c2.chunk.js",
-    "main.js.map": "/invoicegen/static/js/main.7aa8c1c2.chunk.js.map",
+    "main.js": "/invoicegen/static/js/main.be2e6a6e.chunk.js",
+    "main.js.map": "/invoicegen/static/js/main.be2e6a6e.chunk.js.map",
     "runtime-main.js": "/invoicegen/static/js/runtime-main.9c546c42.js",
     "runtime-main.js.map": "/invoicegen/static/js/runtime-main.9c546c42.js.map",
     "static/js/2.76b4cd6b.chunk.js": "/invoicegen/static/js/2.76b4cd6b.chunk.js",
     "static/js/2.76b4cd6b.chunk.js.map": "/invoicegen/static/js/2.76b4cd6b.chunk.js.map",
     "index.html": "/invoicegen/index.html",
-    "precache-manifest.d59248b50a2d314959b284346058139b.js": "/invoicegen/precache-manifest.d59248b50a2d314959b284346058139b.js",
+    "precache-manifest.47339637b875434effe75739d858f304.js": "/invoicegen/precache-manifest.47339637b875434effe75739d858f304.js",
     "service-worker.js": "/invoicegen/service-worker.js",
     "static/css/main.000f62fb.chunk.css.map": "/invoicegen/static/css/main.000f62fb.chunk.css.map",
     "static/js/2.76b4cd6b.chunk.js.LICENSE.txt": "/invoicegen/static/js/2.76b4cd6b.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.9c546c42.js",
     "static/js/2.76b4cd6b.chunk.js",
     "static/css/main.000f62fb.chunk.css",
-    "static/js/main.7aa8c1c2.chunk.js"
+    "static/js/main.be2e6a6e.chunk.js"
   ]
 }

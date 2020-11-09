@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90c4bb7977894f973510318a0ca25419",
+    "revision": "88cf9ef7ace28b2a37fb0a24ea2bfa59",
     "url": "/invoicegen/index.html"
   },
   {
-    "revision": "5dbfc1eafe619f41b089",
+    "revision": "ae571d82364f5751de18",
     "url": "/invoicegen/static/css/main.000f62fb.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/invoicegen/static/js/2.76b4cd6b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5dbfc1eafe619f41b089",
-    "url": "/invoicegen/static/js/main.be2e6a6e.chunk.js"
+    "revision": "ae571d82364f5751de18",
+    "url": "/invoicegen/static/js/main.fb1b5138.chunk.js"
   },
   {
     "revision": "ce2f10fb8f3030963837",
     "url": "/invoicegen/static/js/runtime-main.9c546c42.js"
   },
   {
-    "revision": "be0366dd619a6e338db28c61b8152b8c",
-    "url": "/invoicegen/static/media/digital_wolf_logo.be0366dd.png"
+    "revision": "fb235184b1c260dc0407b5b22671fc7a",
+    "url": "/invoicegen/static/media/edigital_wolf_logo.fb235184.png"
   }
 ]);
